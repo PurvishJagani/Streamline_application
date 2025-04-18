@@ -25,8 +25,8 @@ Streamline_application/
 ├── android/                
 ├── app/                   
 ├── assets/                
-│   ├── fonts/              # Custom fonts used in the app
-│   └── images/             # App images
+│   ├── fonts/              
+│   └── images/             
 │       ├── home/           
 │       ├── intro/          
 │       ├── login/          
