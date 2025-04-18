@@ -1,6 +1,26 @@
-<<<<<<< HEAD
 # Streamline_app
-=======
+
+📱 App Overview
+Streamline Application is a fully functional Flutter authentication app built with clean architecture and smooth navigation. It integrates modern authentication methods and local data handling to deliver a seamless user experience.
+
+✨ Core Features:
+🔐 Google Sign-In & Email Authentication
+Authenticate users securely using Firebase with both Google and Email/Password methods.
+
+📲 Account Management
+Supports account creation, login, and logout functionalities with proper validations.
+
+🔄 Animated Screen Transitions
+Smooth and interactive animations between screens enhance user engagement and provide a polished feel.
+
+📦 Local Data Persistence
+Uses SharedPreferences to store login status and other user preferences locally.
+
+🧭 Structured Navigation Flow
+Clean and intuitive navigation between splash, onboarding, login, sign-up, and home screens.
+
+=============================================================================================================
+
 Streamline_application/
 ├── android/                
 ├── app/                   
@@ -39,5 +59,4 @@ lib/
 ├── analysis_options.yaml  
 ├── settings.gradle.kts    
 └── build.gradle.kts  
-     
 
