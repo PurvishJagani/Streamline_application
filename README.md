@@ -1,20 +1,43 @@
 <<<<<<< HEAD
 # Streamline_app
 =======
-# company_task
+Streamline_application/
+├── android/                
+├── app/                   
+├── assets/                
+│   ├── fonts/              # Custom fonts used in the app
+│   └── images/             # App images
+│       ├── home/           
+│       ├── intro/          
+│       ├── login/          
+│       ├── setting/        
+│       └── splash/         
+├── gradle/                
+├── ios/                   
+lib/
+├── models/
+│   └── Slide.dart
+├── screens/
+│   ├── create_account_screen.dart
+│   ├── home_screen.dart
+│   ├── intro_screen.dart
+│   ├── login_screen.dart
+│   ├── settings_screen.dart
+│   ├── sign_in_screen.dart
+│   └── splash_screen.dart
+├── utils/
+│   ├── auth_service.dart
+│   ├── loading_screen.dart
+│   ├── press_unpress.dart
+│   └── SharedPreferencesUtils.dart
+└── main.dart
+├── test/                  
+├── .gitignore             
+├── README.md              
+├── pubspec.yaml           
+├── pubspec.lock           
+├── analysis_options.yaml  
+├── settings.gradle.kts    
+└── build.gradle.kts  
+     
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> 4f15492 (Initial Flutter project commit)
